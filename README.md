@@ -4,6 +4,14 @@ A small git extension to make it more convenient to work with the .gitignore fil
 
 ## Installation
 
+Install [libgit2](http://libgit2.github.com).
+
+On OS X this can be done with [homebrew](http://brew.sh)
+
+```
+brew install libgit2
+```
+
 Clone this repo and run
 
 ```
